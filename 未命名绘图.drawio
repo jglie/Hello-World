@@ -105,7 +105,7 @@
         <mxCell id="JNiLZCXllPRQuDySc5iR-81" value="A-DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="677.5" y="680" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JNiLZCXllPRQuDySc5iR-82" value="B-CNC1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+        <mxCell id="JNiLZCXllPRQuDySc5iR-82" value="A-CNC1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
           <mxGeometry x="379.25" y="620" width="71.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JNiLZCXllPRQuDySc5iR-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JNiLZCXllPRQuDySc5iR-85" target="JNiLZCXllPRQuDySc5iR-81">
@@ -121,7 +121,7 @@
         <mxCell id="JNiLZCXllPRQuDySc5iR-85" value="A-采集程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520.75" y="690" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JNiLZCXllPRQuDySc5iR-86" value="B-CNC2" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+        <mxCell id="JNiLZCXllPRQuDySc5iR-86" value="A-CNC2" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
           <mxGeometry x="379.25" y="690" width="71.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JNiLZCXllPRQuDySc5iR-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=71.5;entryDy=35;entryPerimeter=0;" edge="1" parent="1" source="JNiLZCXllPRQuDySc5iR-85" target="JNiLZCXllPRQuDySc5iR-82">
@@ -138,7 +138,7 @@
             <mxPoint x="822" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JNiLZCXllPRQuDySc5iR-96" value="数据同步" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="JNiLZCXllPRQuDySc5iR-96" value="数据同步" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="780" y="771.4" width="83" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JNiLZCXllPRQuDySc5iR-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JNiLZCXllPRQuDySc5iR-48" target="JNiLZCXllPRQuDySc5iR-54">
