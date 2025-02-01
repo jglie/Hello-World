@@ -36,27 +36,10 @@
         <mxCell id="ePs_pBkNt_VCKI_8lbBj-217" value="创建WBS" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="170">
           <mxGeometry x="20" y="361.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="176" value="&lt;font color=&quot;#23497d&quot;&gt;项目沟通管理&lt;/font&gt;" style="swimlane;whiteSpace=wrap;fillColor=none;swimlaneFillColor=#BAC8D3;fontColor=#2F5B7C;fontFamily=Tahoma;html=1;strokeColor=none;opacity=25;" parent="1" vertex="1">
-          <mxGeometry x="710" y="88" width="160" height="650" as="geometry">
-            <mxRectangle x="20" y="20" width="80" height="23" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="177" value="Sales Contract" style="shape=document;whiteSpace=wrap;verticalAlign=middle;strokeColor=none;fillColor=#12aab5;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;spacingBottom=22;" parent="176" vertex="1">
-          <mxGeometry x="20" y="50" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="178" value="Bills" style="shape=document;whiteSpace=wrap;verticalAlign=middle;strokeColor=none;fillColor=#12aab5;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;spacingBottom=22;" parent="176" vertex="1">
-          <mxGeometry x="20" y="530" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="179" value="Cost Allocation" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" parent="176" vertex="1">
-          <mxGeometry x="20" y="305" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="180" value="&lt;font color=&quot;#23497d&quot;&gt;项目成本管理&lt;/font&gt;" style="swimlane;whiteSpace=wrap;fillColor=none;swimlaneFillColor=#BAC8D3;fontColor=#2F5B7C;fontFamily=Tahoma;html=1;strokeColor=none;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="540" y="88" width="160" height="650" as="geometry">
+          <mxGeometry x="505" y="88" width="160" height="650" as="geometry">
             <mxRectangle x="20" y="20" width="80" height="23" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="182" value="Account Processing" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" parent="180" vertex="1">
-          <mxGeometry x="20" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ePs_pBkNt_VCKI_8lbBj-230" value="&lt;font color=&quot;#ffffff&quot;&gt;规划成本管理&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#2F5B7C;fontColor=#000000;strokeColor=#E6E6E6;" vertex="1" parent="180">
           <mxGeometry x="10" y="59.5" width="120" height="60" as="geometry" />
@@ -68,12 +51,12 @@
           <mxGeometry x="10" y="242" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="183" value="&lt;font color=&quot;#23497d&quot;&gt;项目进度管理&lt;/font&gt;" style="swimlane;whiteSpace=wrap;fillColor=none;swimlaneFillColor=#BAC8D3;fontColor=#2F5B7C;fontFamily=Tahoma;html=1;strokeColor=none;opacity=25;" parent="1" vertex="1">
-          <mxGeometry x="200" y="89" width="314.5" height="650" as="geometry">
+          <mxGeometry x="200" y="89" width="290" height="650" as="geometry">
             <mxRectangle x="20" y="20" width="80" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="184" value="规划进度管理" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;plain-purple;strokeColor=none;fillColor=#2f5b7c;gradientColor=none;spacing=6;verticalAlign=middle;" parent="183" vertex="1">
-          <mxGeometry x="5.5" y="101.5" width="114.5" height="60" as="geometry" />
+          <mxGeometry x="5.5" y="61" width="114.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="186" value="" style="edgeStyle=segmentEdgeStyle;strokeColor=#2F5B7C;strokeWidth=3;html=1;endArrow=block;endFill=1;" parent="183" source="184" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -85,10 +68,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ePs_pBkNt_VCKI_8lbBj-219" value="定义活动" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;plain-purple;strokeColor=none;fillColor=#2f5b7c;gradientColor=none;spacing=6;verticalAlign=middle;" vertex="1" parent="183">
-          <mxGeometry x="160" y="101.5" width="114.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ePs_pBkNt_VCKI_8lbBj-221" value="" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="183">
-          <mxGeometry x="45.5" y="471.5" width="120" height="100" as="geometry" />
+          <mxGeometry x="160" y="61" width="114.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ePs_pBkNt_VCKI_8lbBj-228" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="183" source="ePs_pBkNt_VCKI_8lbBj-224" target="ePs_pBkNt_VCKI_8lbBj-226">
           <mxGeometry relative="1" as="geometry" />
@@ -107,61 +87,14 @@
             <mxRectangle x="20" y="20" width="80" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="197" value="Outbounding Management" style="shape=document;whiteSpace=wrap;verticalAlign=middle;strokeColor=none;fillColor=#12aab5;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;spacingBottom=22;" parent="196" vertex="1">
-          <mxGeometry x="20" y="130" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="198" value="Resources Allocation" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" parent="196" vertex="1">
-          <mxGeometry x="20" y="255" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="199" value="Long Term Strategy" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" parent="196" vertex="1">
-          <mxGeometry x="20" y="400" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="200" value="" style="edgeStyle=segmentEdgeStyle;strokeColor=#2F5B7C;strokeWidth=3;html=1;endArrow=block;endFill=1;" parent="196" source="198" target="199" edge="1">
+        <mxCell id="200" value="" style="edgeStyle=segmentEdgeStyle;strokeColor=#2F5B7C;strokeWidth=3;html=1;endArrow=block;endFill=1;" parent="196" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="30" y="570" as="sourcePoint" />
-            <mxPoint x="130" y="470" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="201" value="" style="edgeStyle=segmentEdgeStyle;entryX=0.25;entryY=0;strokeColor=#12AAB5;strokeWidth=3;html=1;endArrow=block;endFill=1;" parent="196" source="197" target="198" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="-120" y="260" as="sourcePoint" />
-            <mxPoint x="-20" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="204" value="" style="edgeStyle=segmentEdgeStyle;strokeColor=#2F5B7C;strokeWidth=3;html=1;endArrow=block;endFill=1;" parent="1" source="171" edge="1">
-          <mxGeometry x="164.5" y="178.5" width="100" height="100" as="geometry">
-            <mxPoint x="174.5" y="188.5" as="sourcePoint" />
-            <mxPoint x="500" y="178.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="206" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeColor=#12AAB5;strokeWidth=3;html=1;endArrow=block;endFill=1;" parent="1" target="178" edge="1">
-          <mxGeometry x="484.5" y="623.5" width="100" height="100" as="geometry">
-            <mxPoint x="650" y="658.8181818181818" as="sourcePoint" />
-            <mxPoint x="644.5" y="518.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="212" value="" style="edgeStyle=segmentEdgeStyle;strokeColor=#2F5B7C;strokeWidth=3;html=1;endArrow=block;endFill=1;" parent="1" target="182" edge="1">
-          <mxGeometry x="644.5" y="433.5" width="100" height="100" as="geometry">
-            <mxPoint x="644.5" y="433.5" as="sourcePoint" />
-            <mxPoint x="614.5" y="488.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="215" value="" style="edgeStyle=segmentEdgeStyle;strokeColor=#2F5B7C;strokeWidth=3;html=1;endArrow=block;endFill=1;" parent="1" source="182" target="178" edge="1">
-          <mxGeometry x="804.5" y="538.5" width="100" height="100" as="geometry">
-            <mxPoint x="884.5" y="578.5" as="sourcePoint" />
-            <mxPoint x="984.5" y="478.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="216" value="" style="edgeStyle=segmentEdgeStyle;strokeColor=#2F5B7C;strokeWidth=3;html=1;endArrow=block;endFill=1;" parent="1" source="179" target="199" edge="1">
-          <mxGeometry x="964.5" y="423.5" width="100" height="100" as="geometry">
-            <mxPoint x="1094.5" y="498.5" as="sourcePoint" />
-            <mxPoint x="1194.5" y="398.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="217" value="" style="edgeStyle=segmentEdgeStyle;strokeColor=#12AAB5;strokeWidth=3;html=1;endArrow=block;endFill=1;" parent="1" source="177" target="197" edge="1">
-          <mxGeometry x="964.5" y="178.5" width="100" height="100" as="geometry">
-            <mxPoint x="854.5" y="348.5" as="sourcePoint" />
-            <mxPoint x="954.5" y="248.5" as="targetPoint" />
+            <mxPoint x="80" y="315" as="sourcePoint" />
+            <mxPoint x="80" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="362" />
+              <mxPoint x="80" y="362" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ePs_pBkNt_VCKI_8lbBj-240" value="项目风险管理" style="swimlane;whiteSpace=wrap;fillColor=none;swimlaneFillColor=#BAC8D3;fontColor=#2F5B7C;fontFamily=Tahoma;html=1;strokeColor=none;opacity=50;" vertex="1" parent="1">
@@ -169,25 +102,25 @@
             <mxRectangle x="20" y="20" width="80" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ePs_pBkNt_VCKI_8lbBj-241" value="Outbounding Management" style="shape=document;whiteSpace=wrap;verticalAlign=middle;strokeColor=none;fillColor=#12aab5;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;spacingBottom=22;" vertex="1" parent="ePs_pBkNt_VCKI_8lbBj-240">
-          <mxGeometry x="20" y="130" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ePs_pBkNt_VCKI_8lbBj-242" value="Resources Allocation" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="ePs_pBkNt_VCKI_8lbBj-240">
-          <mxGeometry x="20" y="255" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ePs_pBkNt_VCKI_8lbBj-243" value="Long Term Strategy" style="whiteSpace=wrap;strokeColor=none;fillColor=#2f5b7c;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="ePs_pBkNt_VCKI_8lbBj-240">
-          <mxGeometry x="20" y="400" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ePs_pBkNt_VCKI_8lbBj-244" value="" style="edgeStyle=segmentEdgeStyle;strokeColor=#2F5B7C;strokeWidth=3;html=1;endArrow=block;endFill=1;" edge="1" parent="ePs_pBkNt_VCKI_8lbBj-240" source="ePs_pBkNt_VCKI_8lbBj-242" target="ePs_pBkNt_VCKI_8lbBj-243">
+        <mxCell id="ePs_pBkNt_VCKI_8lbBj-244" value="" style="edgeStyle=segmentEdgeStyle;strokeColor=#2F5B7C;strokeWidth=3;html=1;endArrow=block;endFill=1;" edge="1" parent="ePs_pBkNt_VCKI_8lbBj-240">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="30" y="570" as="sourcePoint" />
-            <mxPoint x="130" y="470" as="targetPoint" />
+            <mxPoint x="80" y="315" as="sourcePoint" />
+            <mxPoint x="80" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ePs_pBkNt_VCKI_8lbBj-245" value="" style="edgeStyle=segmentEdgeStyle;entryX=0.25;entryY=0;strokeColor=#12AAB5;strokeWidth=3;html=1;endArrow=block;endFill=1;" edge="1" parent="ePs_pBkNt_VCKI_8lbBj-240" source="ePs_pBkNt_VCKI_8lbBj-241" target="ePs_pBkNt_VCKI_8lbBj-242">
+        <mxCell id="ePs_pBkNt_VCKI_8lbBj-246" value="项目沟通管理" style="swimlane;whiteSpace=wrap;fillColor=none;swimlaneFillColor=#BAC8D3;fontColor=#2F5B7C;fontFamily=Tahoma;html=1;strokeColor=none;opacity=50;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="680" y="88" width="160" height="650" as="geometry">
+            <mxRectangle x="20" y="20" width="80" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ePs_pBkNt_VCKI_8lbBj-247" value="" style="edgeStyle=segmentEdgeStyle;strokeColor=#2F5B7C;strokeWidth=3;html=1;endArrow=block;endFill=1;" edge="1" parent="ePs_pBkNt_VCKI_8lbBj-246">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="-120" y="260" as="sourcePoint" />
-            <mxPoint x="-20" y="160" as="targetPoint" />
+            <mxPoint x="80" y="315" as="sourcePoint" />
+            <mxPoint x="80" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="362" />
+              <mxPoint x="80" y="362" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
